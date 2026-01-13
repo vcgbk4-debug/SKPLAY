@@ -1,8 +1,9 @@
 [
   {
     "titulo": "Billions",
-    "slug": "billions",
+    "arquivo": "series-Billions-index.html",
     "temporadas": 7,
     "icone": "assets/icons/icon-512.png"
   }
 ]
+
